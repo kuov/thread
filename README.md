@@ -1,5 +1,6 @@
 # thread
 说明文档
+
 1，编译运行
    程序编译环境:ubuntu16.04,g++(支持c++11),make
    进入相应目录运行:make clean && make 之后会生成相应的运行程序
@@ -7,12 +8,21 @@
 
 2,运行结果
    1，多核多线程
-     ![image]()
+   
+     ![image](https://github.com/kuov/thread/blob/master/1.png)
+     
    2，多核单线程
+   
+     ![image](https://github.com/kuov/thread/blob/master/2.png)
 
    3，单核多线程
+   
+     ![image](https://github.com/kuov/thread/blob/master/3.png)
 
    4，单核单线程
+   
+     ![image](https://github.com/kuov/thread/blob/master/4.png)
+
 
 
 3,原因分析
