@@ -9,19 +9,19 @@
 2,运行结果
    1，多核多线程
    
-     ![image](https://github.com/kuov/thread/blob/master/1.png)
+     https://github.com/kuov/thread/blob/master/1.png
      
    2，多核单线程
    
-     ![image](https://github.com/kuov/thread/blob/master/2.png)
+     https://github.com/kuov/thread/blob/master/2.png
 
    3，单核多线程
    
-     ![image](https://github.com/kuov/thread/blob/master/3.png)
+     https://github.com/kuov/thread/blob/master/3.png
 
    4，单核单线程
    
-     ![image](https://github.com/kuov/thread/blob/master/4.png)
+     https://github.com/kuov/thread/blob/master/4.png
 
 
 
