@@ -9,11 +9,11 @@
 2,运行结果
    1，多核多线程
    
-     https://github.com/kuov/thread/blob/master/1.png
+     ![image1](https://github.com/kuov/thread/blob/master/1.png)
      
    2，多核单线程
    
-     https://github.com/kuov/thread/blob/master/2.png
+     ![image2](https://github.com/kuov/thread/blob/master/2.png)
 
    3，单核多线程
    
@@ -26,7 +26,10 @@
 
 
 3,原因分析
+
    1，多CPU情况
+   
       多cpu情况下，多线程处理数量多于单线程的数量，说明多CPU多线程下可以充分发挥CPU性能
    2，单CPU情况
+   
       单CPU情况下，多线程慢于单线程数量，说明在单CPU多线程下会降低CPU处理效率，因为此情况所有的线程都运行与同一CPU上，线程切换需要耗费时间，所以降低了CPU效率，而单一线程不需要切换，反而性能更高
