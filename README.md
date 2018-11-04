@@ -1,7 +1,7 @@
 # thread
 说明文档
 
-1，编译运行
+一，编译运行
 
    程序编译环境:ubuntu16.04,g++(支持c++11),make
    
@@ -9,7 +9,7 @@
    
    ./thread1 or ./thread2 即可运行程序1和程序2，若没有运行权限请自行添加
 
-2,运行结果
+二,运行结果
 
    1，多核多线程
    
@@ -25,11 +25,11 @@
 
    4，单核单线程
    
-   ![image2](https://github.com/kuov/thread/blob/master/4.png)
+   ![image4](https://github.com/kuov/thread/blob/master/4.png)
 
 
 
-3,原因分析
+三,原因分析
 
    1，多CPU情况
    
