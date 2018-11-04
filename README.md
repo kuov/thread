@@ -2,11 +2,15 @@
 说明文档
 
 1，编译运行
+
    程序编译环境:ubuntu16.04,g++(支持c++11),make
+   
    进入相应目录运行:make clean && make 之后会生成相应的运行程序
+   
    ./thread1 or ./thread2 即可运行程序1和程序2，若没有运行权限请自行添加
 
 2,运行结果
+
    1，多核多线程
    
    ![image1](https://github.com/kuov/thread/blob/master/1.png)
@@ -17,11 +21,11 @@
 
    3，单核多线程
    
-   ![image3]https://github.com/kuov/thread/blob/master/3.png
+   ![image3](https://github.com/kuov/thread/blob/master/3.png)
 
    4，单核单线程
    
-   ![image2]https://github.com/kuov/thread/blob/master/4.png
+   ![image2](https://github.com/kuov/thread/blob/master/4.png)
 
 
 
