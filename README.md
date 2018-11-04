@@ -1,4 +1,4 @@
-# thread
+
 说明文档
 
 1，编译运行
@@ -9,7 +9,7 @@
 2,运行结果
    1，多核多线程
    
-     ![image1](https://github.com/kuov/thread/blob/master/1.png)
+     ![index](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_index.png)
      
    2，多核单线程
    
